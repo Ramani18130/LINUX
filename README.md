@@ -1,11 +1,11 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: SANGEETH KUMAR SAI S
-- Roll Number: 24BAS10124
+- Name: RAMANI K
+- Roll Number: 24BCG10071
 
 ## Chosen Software
-Git (Version Control System)
+Git 
 
 ## Scripts Description
 Script 1: System info
